@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\bin\Debug\数据库test4.exe.config
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\bin\Debug\数据库test4.exe
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\bin\Debug\数据库test4.pdb
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.csprojResolveAssemblyReference.cache
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.Form1.resources
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.Properties.Resources.resources
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.csproj.GenerateResource.Cache
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.exe
+c:\Users\hp\documents\visual studio 2015\Projects\数据库test4\数据库test4\obj\Debug\数据库test4.pdb
