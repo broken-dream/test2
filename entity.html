@@ -1,0 +1,20 @@
+{% extends 'textarea.html' %}
+
+{% block recognize_button %}
+<button type="button" class="btn btn-sm btn-primary query-button" id="entity_query_button"
+  var="entity_query_button">
+  识别
+</button>
+{% endblock %}
+
+{% block color_example %}
+<div class="badge etype-color-task">任务</div>
+<div class="badge etype-color-method">方法</div>
+<div class="badge etype-color-metric">评价指标</div>
+<div class="badge etype-color-material">资源</div>
+<div class="badge etype-color-other mr-0">其他</div>
+{% endblock %}
+
+{% block entity_intro %}
+<span>实体识别是……</span>
+{% endblock %}
